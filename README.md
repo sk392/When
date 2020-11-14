@@ -5,4 +5,4 @@
 Kotlin, Android Architecture Components(LiveData, ViewModel, Databinding), Flow, Dagger, Retrofit
 
 ## 구조
-MVVM, Clean Architecture, Repository Pattern, DI
+MVVM, Clean Architecture, Repository, DI
