@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="home_articles_divider">16dp</dimen>
+    <dimen name="home_articles_margin">16dp</dimen>
+
+</resources>

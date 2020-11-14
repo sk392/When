@@ -1,0 +1,12 @@
+{
+  "status": 200,
+  "exception": null,
+  "result" : {
+    "id" : 1234,
+    "title" : "작품이름",
+    "authorName": "작가이름",
+    "authorProfileUrl": "https://img.sbs.co.kr/newsnet/etv/upload/2018/09/12/30000612826_1280.jpg",
+    "coverUrl": "https://blog.kakaocdn.net/dn/bdh479/btqyQyDCv0B/CUrSXK0UJcOdlDKMmRb2KK/img.jpg",
+    "contents" : "내용내용 \n 내용내용 \n 내용내용"
+  }
+}

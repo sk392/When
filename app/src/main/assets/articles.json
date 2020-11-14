@@ -1,0 +1,29 @@
+{
+  "status": "OK",
+  "exception": null,
+  "result" : {
+    "list" : [
+      {
+        "id": 1234,
+        "title": "작품이름1",
+        "coverUrl": "https://blog.kakaocdn.net/dn/bdh479/btqyQyDCv0B/CUrSXK0UJcOdlDKMmRb2KK/img.jpg",
+        "authorName": "작가이름1",
+        "authorProfileUrl": "https://img.sbs.co.kr/newsnet/etv/upload/2018/09/12/30000612826_1280.jpg"
+      },
+      {
+        "id": 1235,
+        "title": "작품이름2",
+        "coverUrl": "https://lh3.googleusercontent.com/proxy/JdTcaCOSqlfbOvHfFRc94ACnXCEapEFrKwjJtb977xoJxb7xAozToM0zDz1iPfaKymztETpCmMopDn_NO8-g_UgqVElRgNGzkJ5TVuZM3T6DkaGDjl3_2D0okrXJQbIqLQ3LqK29d6kWVd8H10g_rnswTq2XR09avL2guYzyq6T9RyiWNnhNRwEeW5CTToql2IbzUA",
+        "authorName": "작가이름2",
+        "authorProfileUrl": "https://img.hankyung.com/photo/201910/BF.20821414.1-1200x.jpg"
+      },
+      {
+        "id": 1236,
+        "title": "작품이름3",
+        "coverUrl": "https://lh3.googleusercontent.com/proxy/dM2xm8SckakHfTPwDgQc-7x7MqdRb5knhBW7CZU7SjVDPDYOvMLsgpe4N_HazT9Ql6gb6HujwQHlnWk1fuj3dyXkQx-v3AbZqss",
+        "authorName": "작가이름3",
+        "authorProfileUrl": "https://www.topdaily.kr/news/photo/202008/73063_40291_2921.jpg"
+      }
+    ]
+  }
+}

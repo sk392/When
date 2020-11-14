@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_marginLeft="@dimen/home_articles_margin"
+        android:layout_marginTop="@dimen/home_articles_margin"
+        android:layout_marginBottom="@dimen/home_articles_margin"
+        android:layout_marginRight="@dimen/home_articles_margin"
+        android:layout_height="150dp"
+        app:cardElevation="10dp"
+        app:cardCornerRadius="5dp">
+
+        <ImageView
+            android:id="@+id/background"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        <FrameLayout
+            android:background="@color/dimmedBackground"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+        <TextView
+            android:id="@+id/title"
+            android:textColor="@android:color/white"
+            android:layout_width="wrap_content"
+            android:textSize="17dp"
+            android:maxWidth="300dp"
+            tools:text="텍스트뷰의 길이를  테스트 하기 위한 임시 텍스트 입니다 텍스트는 이렇게 작성되어 들어갑니다."
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+    </androidx.cardview.widget.CardView>
+</layout>
